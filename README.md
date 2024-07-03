@@ -1,0 +1,3 @@
+### Overview of Dataset: Comprehensive Survey of Global Data Professionals
+
+This dataset comprises responses from a comprehensive survey targeting data professionals globally. It includes anonymized data on career details, satisfaction metrics, and demographic information. Key variables cover current roles, career transitions into data, salary ranges, industry sectors, preferred programming languages, job satisfaction levels across various factors (salary, work/life balance, coworkers, management, upward mobility, learning), career entry challenges, job priorities, and demographic characteristics. Valuable for analyzing trends and factors influencing career satisfaction among data professionals.
